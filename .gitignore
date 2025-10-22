@@ -1,0 +1,21 @@
+/pattern.class
+# Java class files
+*.class
+
+# Maven build directory
+target/
+
+# Gradle build directory directory
+build/
+
+# IDE-specific files (examples for IntelliJ and Eclipse)
+.idea/
+*.iws
+*.iml
+*.ipr
+.classpath
+.project
+.settings/
+
+# Log files
+*.log
