@@ -1,4 +1,4 @@
-package DiwaliRevisionOOPs;
+package DiwaliRevisionOOPs_1to10;
 
 public class ElectricCar extends Cars{
 public String Details() {

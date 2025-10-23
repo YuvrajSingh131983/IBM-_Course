@@ -1,6 +1,6 @@
-package DiwaliRevisionOOPs;
+package DiwaliRevisionOOPs_1to10;
 
-public class Output1 {
+public class Output_1to10 {
 public static void main(String[] args) {
 	//Question 1
 	System.out.println("Question 1");

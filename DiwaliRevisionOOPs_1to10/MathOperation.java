@@ -1,4 +1,4 @@
-package DiwaliRevisionOOPs;
+package DiwaliRevisionOOPs_1to10;
 
 public class MathOperation {
 public int add(int a,int b) {

@@ -1,4 +1,4 @@
-package DiwaliRevisionOOPs;
+package DiwaliRevisionOOPs_1to10;
 
 public class Car {
 public String Compaany_Name;
